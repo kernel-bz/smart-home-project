@@ -12,3 +12,8 @@ SmartHome_M_Source.zip: 스마트홈M 소스 압축파일
 책링크:
 http://www.kernel.bz/books
 
+정보공유 블로그:
+http://www.kernel.bz/smarthomem
+
+제품판매:
+http://www.kernel.bz/product/smart_home_m1
