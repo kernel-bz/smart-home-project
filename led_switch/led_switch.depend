@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1514012419 source:/home/pi/Projects/SmartHome/lib/piHiPri.c
+	<sched.h>
+	<string.h>
+	"wiringPi.h"
+
+1514012419 /home/pi/Projects/SmartHome/lib/wiringPi.h
+
+1515401490 source:/home/pi/Projects/SmartHome/lib/SmartHomeM.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdint.h>
+	<string.h>
+	<errno.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+	"SmartHomeM.h"
+
+1514012419 /home/pi/Projects/SmartHome/lib/wiringPiI2C.h
+
+1515401489 /home/pi/Projects/SmartHome/lib/SmartHomeM.h
+
+1514012419 source:/home/pi/Projects/SmartHome/lib/softPwm.c
+	<stdio.h>
+	<malloc.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softPwm.h"
+
+1514012419 /home/pi/Projects/SmartHome/lib/softPwm.h
+
+1514012419 source:/home/pi/Projects/SmartHome/lib/softTone.c
+	<stdio.h>
+	<pthread.h>
+	"wiringPi.h"
+	"softTone.h"
+
+1514012419 /home/pi/Projects/SmartHome/lib/softTone.h
+
+1514014827 source:/home/pi/Projects/SmartHome/lib/wiringPi.c
+	<stdio.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdlib.h>
+	<ctype.h>
+	<poll.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<time.h>
+	<fcntl.h>
+	<pthread.h>
+	<sys/time.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/wait.h>
+	<sys/ioctl.h>
+	<asm/ioctl.h>
+	"softPwm.h"
+	"softTone.h"
+	"wiringPi.h"
+	"version.h"
+
+1514012419 /home/pi/Projects/SmartHome/lib/version.h
+
+1514012419 source:/home/pi/Projects/SmartHome/lib/wiringPiI2C.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<asm/ioctl.h>
+	"wiringPi.h"
+	"wiringPiI2C.h"
+
+1515406247 source:/home/pi/Projects/SmartHome/led_switch/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	"SmartHomeM.h"
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="SmartHome.Workspace">
+		<Project filename="Running/Running.cbp" />
+		<Project filename="../led_switch/led_switch.cbp" />
+		<Project filename="../led_switch2/led_switch2.cbp" />
+		<Project filename="../led_switch3/led_switch3.cbp" />
+		<Project filename="../light_switch/light_switch.cbp" />
+		<Project filename="../tmper_switch/tmper_switch.cbp" />
+		<Project filename="../humty_switch/humty_switch.cbp" />
+		<Project filename="../gas_switch/gas_switch.cbp" />
+		<Project filename="../motor_control/motor_control.cbp" />
+		<Project filename="../motor_control2/motor_control2.cbp" />
+		<Project filename="../www/www.cbp" />
+		<Project filename="../devices/devices.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
