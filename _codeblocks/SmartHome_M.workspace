@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_workspace_file>
-	<Workspace title="SmartHome.Workspace">
+	<Workspace title="SmartHome_M.Workspace">
 		<Project filename="Running/Running.cbp" />
 		<Project filename="../led_switch/led_switch.cbp" />
 		<Project filename="../led_switch2/led_switch2.cbp" />
