@@ -17,3 +17,5 @@ http://www.kernel.bz/smarthomem
 
 제품판매:
 http://www.kernel.bz/product/smart_home_m1
+
+Last Updated: 2018-03-06
